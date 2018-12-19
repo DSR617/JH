@@ -1,0 +1,11 @@
+{
+  "web": {
+    "client_id": "487833451155-h18fo9pu2mp5oac6gplfqc5bous4hnqb.apps.googleusercontent.com",
+    "project_id": "interviewwebapp",
+    "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+    "token_uri": "https://www.googleapis.com/oauth2/v3/token",
+    "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+    "client_secret": "PBON0H9XRPKpoEOoLBl6h7ty",
+    "redirect_uris": [ "https://localhost:44332/signin-google" ]
+  }
+}
